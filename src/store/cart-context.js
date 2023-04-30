@@ -7,8 +7,8 @@ const CartContext = React.createContext({
     removeItem: (id) => { }
 });
 
-export default CartContext;
+export default CartContext; 
 
 
 //  React.createContext({default data})
-// then we will manage in  context in some component with useState or useReducer
+// then we will manage in  context in some component with useState or useReducer  
